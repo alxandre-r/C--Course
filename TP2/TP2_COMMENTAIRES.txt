@@ -1,0 +1,11 @@
+Non implémenté :
+Le vaisseau F_18
+L'utilisation des capacité spéciales (y compris Tardis)
+
+
+Disfonctionnements :
+Les armes sont toujours à l'état "chargée"
+
+A noter :
+J'ai créer une classe PlayerSpaceship qui hérite de spaceship (de la même manière que les ennemis)
+pour personnalisé le vaisseau du joueur
